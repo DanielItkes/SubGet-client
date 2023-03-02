@@ -1,5 +1,3 @@
-<img width="450" alt="subget_logo" src="https://user-images.githubusercontent.com/89524327/198267506-a419465e-a562-4aa7-9df0-b81bb9878905.png">
-
 
 # SubGet
 
